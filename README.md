@@ -1,1 +1,1 @@
-# imgui_glfw_app
+# imgui_sdl_app
